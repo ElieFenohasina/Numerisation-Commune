@@ -1,2 +1,2 @@
-# Numerisation-Commune
-Tous numerisés au niveau de la commune pour faciliter le travail de secretaire.
+# Gestion des Stagiaires
+Cette application est une application pour la gestion des stagiaires dans une entreprise. Plusieurs activités peuvent etre gerer avec cette application comme la gestion de salaire, presence etc.
